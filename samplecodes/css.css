@@ -1,0 +1,31 @@
+/* Groovy Nythera CSS Preview */
+body {
+  font-family: "JetBrains Mono", monospace;
+  background: #1e1e1e;
+  color: #d4d4d4;
+}
+
+header {
+  background: #24283b;
+  padding: 20px;
+}
+
+h1 {
+  color: #7aa2f7;
+}
+
+ul li {
+  margin: 8px 0;
+}
+
+button {
+  background: #7aa2f7;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #5f87ff;
+}

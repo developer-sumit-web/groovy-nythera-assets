@@ -1,0 +1,11 @@
+{
+  "theme": "Groovy Nythera",
+  "version": "1.0.0",
+  "author": "Sumit",
+  "languages": ["JavaScript", "Python", "HTML", "CSS", "Java", "C", "C++"],
+  "settings": {
+    "editor.background": "#1e1e1e",
+    "editor.foreground": "#d4d4d4",
+    "cursor.color": "#7aa2f7"
+  }
+}
